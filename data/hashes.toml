@@ -3,11 +3,9 @@ stereo-sweep-1Hz-96KHz = "85b83c2aba905328de06696d45ee22f47db71f4f3846a3903b0196
 mono-sweep-1Hz-96KHz =  "541bfea93e8a5754d6d940e8f76a103ba656879f040b9dde98a30081f68c604e5f194ba26dd50726ea2a8fb1f577a685b5421add6ea81f833372a1259d66af5a"
 
 [mp3]
-
 foo = "bar"
 bar = "foo"
 
 [vorbis]
-
 foo = "bar"
 bar = "foo"
